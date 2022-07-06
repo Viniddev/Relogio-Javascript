@@ -1,4 +1,4 @@
-//pegar os valores do meu html referentes a hora, min, sec;
+//pegar os objetos do meu html referentes a hora, min, sec;
 const horas = window.document.getElementById("horas");
 const minutos = window.document.getElementById("minutos");
 const segundos = window.document.getElementById("segundos");
